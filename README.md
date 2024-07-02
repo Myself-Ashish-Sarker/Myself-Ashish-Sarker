@@ -16,3 +16,6 @@
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myself-Ashish-Sarker)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myself-Ashish-Sarker&size_weight=0.5&count_weight=0.5)
